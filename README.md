@@ -1,3 +1,11 @@
+# Warning
+
+This is the front-end part of the REBA project. Without the back-end project, the front-end alone will not work properly.
+
+Back-end project link (You can also find the description of the project here): https://github.com/KeskinSinan/reba
+
+If you want to test the system without downloading the source code: www.reba-calculator.com
+
 # RebaFrontend
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
